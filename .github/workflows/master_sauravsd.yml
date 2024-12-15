@@ -53,4 +53,4 @@ jobs:
           app-name: 'SauravSD'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9C600970A474FDBACE604912AB119E4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC64BBCAEF5B4C8DB423F3E40E4B2125 }}
